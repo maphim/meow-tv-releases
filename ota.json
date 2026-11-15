@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "2.0.0",
+  "versionCode": 8,
+  "versionName": "2.0.1-test",
   "apkUrl": "https://github.com/maphim/meow-tv-releases/releases/download/v2.0.0/app-v2.0.0.apk",
-  "notes": "Meow TV 2.0.0: viết lại native - gom nhóm IPTV (17 nhóm, tên tiếng Việt), chọn kênh kiểu bộ chọn hình nền Meow (box 208dp, viền cyan, badge Đang xem), player Media3/HLS, OTA. APK 2.2MB (cũ 8.4MB)."
+  "notes": "Bản thử để kiểm tra luồng OTA (sẽ hoàn lại)."
 }
