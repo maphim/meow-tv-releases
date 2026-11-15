@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.1.1",
-  "apkUrl": "https://github.com/maphim/meow-tv-releases/releases/download/v2.1.1/app-v2.1.1.apk",
-  "notes": "Meow TV 2.1.1: ▲▼ đổi kênh như tivi, OK mở danh sách kênh (tự focus kênh đang xem, có số thứ tự + nhóm), bảng thông tin tín hiệu (FULL HD/HD, độ phân giải, fps, bitrate, codec video/âm thanh, đệm), mở trang cấp quyền cài đặt khi cập nhật OTA."
+  "versionCode": 12,
+  "versionName": "2.1.2",
+  "apkUrl": "https://github.com/maphim/meow-tv-releases/releases/download/v2.1.2/app-v2.1.2.apk",
+  "notes": "Meow TV 2.1.2: bảng thông tin làm lại thành 2 cột thẳng lề (label trái, value trái), tên codec dễ đọc (H.264/H.265/AV1, AAC/AC-3/Opus), bitrate có dấu phân cách nghìn, có đường kẻ ngăn và nhãn TÍN HIỆU."
 }
