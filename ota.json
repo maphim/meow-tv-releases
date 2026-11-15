@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "2.0.1",
-  "apkUrl": "https://github.com/maphim/meow-tv-releases/releases/download/v2.0.1/app-v2.0.1.apk",
-  "notes": "Meow TV 2.0.1: mở thẳng trang cấp quyền 'Cài ứng dụng không rõ nguồn' trước khi cập nhật (TV không phải mò Settings). Gom nhóm IPTV, chọn kênh kiểu bộ chọn hình nền, player HLS, OTA."
+  "versionCode": 11,
+  "versionName": "2.1.1",
+  "apkUrl": "https://github.com/maphim/meow-tv-releases/releases/download/v2.1.1/app-v2.1.1.apk",
+  "notes": "Meow TV 2.1.1: ▲▼ đổi kênh như tivi, OK mở danh sách kênh (tự focus kênh đang xem, có số thứ tự + nhóm), bảng thông tin tín hiệu (FULL HD/HD, độ phân giải, fps, bitrate, codec video/âm thanh, đệm), mở trang cấp quyền cài đặt khi cập nhật OTA."
 }
